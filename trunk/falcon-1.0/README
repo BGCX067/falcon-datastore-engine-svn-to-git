@@ -1,0 +1,16 @@
+	
+	Falcon Datastore Engine
+	
+	"팔콘 데이터저장소 엔진"은 MySQL을 기반으로 하는 NoSQL 엔진 입니다.
+	모든 입력, 출력이 JSON 문서로 되어 있어 웹 애플리케이션, 스마트폰 애플케이션 개발에 용의 합니다.
+	이 엔진은 소규모 애플리케이션에 적합 합니다.
+	
+	version 1.0
+	license GNU Lesser GPL
+	copyright cosmosfarm (iam@cosmosfarm.com)
+	
+	홈페이지 : http://www.cosmosfarm.com
+	블로그 : http://chan2rrj.blog.me
+	
+	
+	최초 Sql.class.php 파일을 수정하세요.
